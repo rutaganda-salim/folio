@@ -43,18 +43,8 @@ const Project = ({ project }) => {
             rel="noreferrer"
             className="uppercase py-8 px-10 border border-black/20 rounded-full hover:bg-black/20 hover:border-black/20 duration-500"
           >
-            front-End Code
+            Github Repo
           </a>
-          {project.backEndLink && (
-            <a
-              href={project.backEndLink}
-              target="_blank"
-              rel="noreferrer"
-              className="uppercase py-8 px-10 border border-black/20 rounded-full hover:bg-black/20 hover:border-black/20 duration-500"
-            >
-              back-end Code
-            </a>
-          )}
         </div>
       </div>
       <div

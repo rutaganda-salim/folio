@@ -45,6 +45,17 @@ const data = [
     liveLink: "https://coinspyer.vercel.app/",
     frontEndLink: "https://github.com/rutaganda-salim/coinspy.git",
   },
+  {
+    id: 4,
+    title: "Salix AI - Learn, Chat, and Explore My World.",
+    img1: "https://res.cloudinary.com/doo2ywmrb/image/upload/v1675356788/personal-portfolio/Screenshot_551_xp65v9.png",
+    img2: "https://res.cloudinary.com/doo2ywmrb/image/upload/v1675356786/personal-portfolio/Screenshot_2023-02-02_at_08-43-13_Todo-app_zsmdfs.png",
+    description:
+      "🤖 Salix AI Chatbot:  A personal AI chatbot that shares my story and engages users with interactive conversations! ✨",
+    tools: ["Next.Js", "Shadcn UI", "Gemini API", "Tailwind Css", "Vercel SDK"],
+    liveLink: "https://salixai.vercel.app/",
+    frontEndLink: "https://github.com/rutaganda-salim/salixai.git",
+  },
 ];
 
 const Projects = () => {
