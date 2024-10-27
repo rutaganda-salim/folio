@@ -3,8 +3,8 @@ import SectionTitle from "./SectionTitle";
 import { useHoverEffect } from "../Hooks/useHoverEffect";
 import { useProjectLeftRightReveal } from "../Hooks/gsap";
 const data = {
-  img1: "https://res.cloudinary.com/doo2ywmrb/image/upload/v1679496356/personal-portfolio/IMG_1676991302306_jfsbak.jpg",
-  img2: "https://res.cloudinary.com/doo2ywmrb/image/upload/v1675356745/personal-portfolio/me_qhgfz0.jpg",
+  img1: "https://res.cloudinary.com/dgaqhqudo/image/upload/v1730064789/download_isvwrw.png",
+  img2: "https://res.cloudinary.com/dgaqhqudo/image/upload/v1730064789/download_isvwrw.png",
 };
 
 const About = () => {
@@ -22,24 +22,24 @@ const About = () => {
         <div className="about-left" ref={aboutLeftRef}></div>
         <div className="about-right" ref={aboutRightRef}>
           <p>
-            As a MERN stack developer, my personal portfolio showcases my skills
-            and experience in building dynamic web applications using the MERN
-            (MongoDB, Express, React, Node) technology stack. I have experience
-            in developing back-end APIs, utilizing MongoDB for data storage, and
-            building responsive front-end interfaces using React.
+            As a Blockchain & Web3 Engineer with full-stack expertise, my
+            portfolio highlights my skills in building decentralized
+            applications (dApps) and modern web solutions. I specialize in smart
+            contracts, Solidity, and Web3 technologies, paired with responsive
+            frontend development.
             <br />
-            In my portfolio, you'll find examples of my work, including projects
-            that demonstrate my ability to design and implement scalable,
-            maintainable, and efficient applications. I also showcase my
-            expertise in developing RESTful APIs using Node.js and Express, as
-            well as my proficiency in working with React, Redux, and other
-            front-end technologies. <br /> I'm passionate about learning new
-            technologies and staying up-to-date with the latest trends in the
-            industry. In my portfolio, you'll see evidence of my commitment to
-            continuous learning and growth as a developer. <br /> Overall, my
-            personal portfolio is a reflection of my skills, experience, and
-            passion for building high-quality web applications using the MERN
-            stack.
+            In my portfolio, you'll find projects showcasing secure, scalable
+            application designs. I have experience with Node.js, Express, React,
+            and deploying smart contracts on Ethereum and Polygon.
+            <br />
+            I also demonstrate my ability to design intuitive user interfaces,
+            ensuring that applications are both visually appealing and
+            functional. My backend expertise complements this, providing robust
+            and efficient server-side architecture.
+            <br />
+            I'm committed to continuous learning and staying up-to-date with the
+            latest trends in both Web3 and full-stack development, ensuring
+            high-quality solutions.
           </p>
           <a
             href="https://docs.google.com/document/d/1QxSL3GzC0FJMQjPISQvSSD_jr5hM5Txlu9cfEBxmXSY/edit"

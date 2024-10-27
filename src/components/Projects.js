@@ -16,7 +16,7 @@ const data = [
       "Framer Motion",
     ],
     liveLink: "https://fizzyd.vercel.app",
-    Github: "https://github.com/rutaganda-salim/fizzy.git",
+    frontEndLink: "https://github.com/rutaganda-salim/fizzy.git",
   },
 
   {
