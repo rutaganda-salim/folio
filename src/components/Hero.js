@@ -22,10 +22,10 @@ const Hero = () => {
     <div className="hero container mx-auto mt-16 flex justify-center items-center overflow-hidden">
       <div className="hero-img" ref={heroImageRef}></div>
       <div className="shutter shutter-left overflow-hidden">
-        <h1 ref={heroHeadline1Ref}>MERN STACK</h1>
+        <h1 ref={heroHeadline1Ref}>Blockchain & Web3</h1>
       </div>
       <div className="shutter shutter-right overflow-hidden">
-        <h1 ref={heroHeadline2Ref}>Developer</h1>
+        <h1 ref={heroHeadline2Ref}>Engineer</h1>
       </div>
       <div className="circle-left"></div>
       <div className="circle-right"></div>

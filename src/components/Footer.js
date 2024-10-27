@@ -14,9 +14,9 @@ const Footer = () => {
           to="#home"
           className="link-item hover:text-black  duration-500"
         >
-          Sumaiya Rimu
+         Salim Rutaganda
         </HashLink>
-        . Crafted by yours truly Emmet Abbreviation
+        . Crafted with ❤️
       </p>
     </footer>
   );

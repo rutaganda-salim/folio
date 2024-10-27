@@ -1,22 +1,13 @@
 import { useRef } from "react";
 import { useSocialReveal } from "../Hooks/gsap";
 const data = [
+  { id: 1, title: "Twitter", url: "https://twitter.com/salimnunez01" },
+  { id: 2, title: "Github", url: "https://github.com/rutaganda-salim" },
+  { id: 3, title: "Instagram", url: "https://instagram.com/salimnunez01" },
   {
-    id: 1,
-    title: "Facebook",
-    url: "https://www.facebook.com/sumaiya.rimu.313",
-  },
-  { id: 2, title: "Twitter", url: "https://twitter.com/SumaiyRimu" },
-  { id: 3, title: "Github", url: "https://github.com/sumaiyarimu22" },
-  {
-    id: 4,
+    id: 3,
     title: "LinkedIn",
-    url: "https://www.linkedin.com/in/sumaiya-rimu/",
-  },
-  {
-    id: 5,
-    title: "Leetcode",
-    url: "https://leetcode.com/sumaiyaRimu/",
+    url: "https://www.linkedin.com/in/salimrutaganda/",
   },
 ];
 

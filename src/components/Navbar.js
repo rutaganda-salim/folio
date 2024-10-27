@@ -30,7 +30,7 @@ const Navbar = ({ footerNav }) => {
     >
       <div className="logo">
         <HashLink smooth to="#home" className="link-item" ref={link1Ref}>
-          {footerNav ? "Go to Top" : " Sumaiya Rimu"}
+          {footerNav ? "Go to Top" : " Salim Rutaganda"}
         </HashLink>
       </div>
       <ul className="links flex flex-col gap-3">
