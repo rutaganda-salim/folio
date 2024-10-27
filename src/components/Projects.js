@@ -31,7 +31,7 @@ const data = [
       "VS Code API",
       "JSON",
     ],
-    liveLink: "https://resonant-crisp-514db3.netlify.app/",
+    liveLink: "https://marketplace.visualstudio.com/items?itemName=SalimRutaganda.shadowflux",
     frontEndLink: "https://github.com/rutaganda-salim/shadowflux.git",
   },
   {
