@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /path-to-block/
+Allow: /
+Sitemap: https://rsalim.vercel.app/sitemap.xml
