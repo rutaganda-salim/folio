@@ -61,7 +61,7 @@ const Navbar = ({ footerNav }) => {
         </li>
         <li>
           <a
-            href="https://drive.google.com/file/d/1Vklr7_oWIpAP1A_wdUzrubNWWHmN4xyG/view"
+            href="https://app.enhancv.com/share/6036b28d/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic"
             target="_blank"
             rel="noreferrer"
             className="link-item"
